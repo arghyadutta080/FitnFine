@@ -1,0 +1,96 @@
+#switch {
+    list-style: none;
+    display: flex;
+    justify-content: center;
+}
+
+#switch1 {
+    list-style: none;
+    display: flex;
+    justify-content: end;
+}
+
+#switch2 {
+    list-style: none;
+    display: flex;
+    justify-content: start;
+}
+
+.col-lg-4 {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+}
+
+/* MODAL */
+
+#signup h1 {
+    text-align: center;
+    /* font-size: 80px; */
+    font-weight: bold;
+    color: rgb(0, 0, 0);
+}
+
+#signup h4 {
+    text-align: center;
+    /* font-size: 80px; */
+    font-weight: bold;
+    color: rgb(8, 136, 215);
+}
+
+#choice h3 {
+    width: 300px;
+    height: 150px;
+    border: 2px solid darkblue;
+    text-align: center;
+    /* font-size: 50px; */
+    float: left;
+}
+
+.pat {
+    background-color: rgb(255, 221, 0);
+    padding: 20px;
+    /* margin-left: 350px; */
+    align-items: center;
+    float: left;
+}
+
+.doc {
+    background-color: aqua;
+    padding: 20px;
+    margin-left: 30px;
+    align-items: center;
+    float: left;
+}
+
+.pat:hover {
+    color: blueviolet;
+    box-shadow: 0 5px 15px;
+}
+
+.doc:hover {
+    color: blueviolet;
+    box-shadow: 0 5px 15px blueviolet;
+}
+
+#signup {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+    /* margin-top: 100px; */
+}
+
+#choice a {
+    text-decoration: none;
+}
+
+#choice {
+    margin-top: 30px;
+}
+
+#features {
+    padding-bottom: 30px;
+    padding-top: 15px;
+}
