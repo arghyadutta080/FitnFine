@@ -64,7 +64,7 @@ function Book() {
 
                                         <div class="card-body">
                                             <p class="card-text my-1"><b>Ms. K Chatterjee</b></p>
-                                            <p class="card-text my-1">Category : General  </p>
+                                            <p class="card-text my-1">Category : Dermatologist  </p>
                                             <p class="card-text my-1 mb-3">Public Rating : 5.0</p>
                                             <div class="d-flex justify-content-between align-items-center">
                                                 <button type="button"
@@ -81,7 +81,7 @@ function Book() {
 
                                         <div class="card-body">
                                             <p class="card-text my-1"><b>Mr. S Basu</b></p>
-                                            <p class="card-text my-1">Category : General  </p>
+                                            <p class="card-text my-1">Category : Dermatologist  </p>
                                             <p class="card-text my-1 mb-3">Public Rating : 4.8</p>
                                             <div class="d-flex justify-content-between align-items-center">
                                                 <button type="button"
@@ -98,7 +98,7 @@ function Book() {
 
                                         <div class="card-body">
                                             <p class="card-text my-1"><b>Ms. S Saha</b></p>
-                                            <p class="card-text my-1">Category : General  </p>
+                                            <p class="card-text my-1">Category : Dermatologist  </p>
                                             <p class="card-text my-1 mb-3">Public Rating : 4.7</p>
                                             <div class="d-flex justify-content-between align-items-center">
                                                 <button type="button"
@@ -116,7 +116,7 @@ function Book() {
 
                                         <div class="card-body">
                                             <p class="card-text my-1"><b>Mr. R Basu</b></p>
-                                            <p class="card-text my-1">Category : General  </p>
+                                            <p class="card-text my-1">Category : Dermatologist  </p>
                                             <p class="card-text my-1 mb-3">Public Rating : 4.5</p>
                                             <div class="d-flex justify-content-between align-items-center">
                                                 <button type="button"
@@ -133,7 +133,7 @@ function Book() {
 
                                         <div class="card-body">
                                             <p class="card-text my-1"><b>Ms. J Paul</b></p>
-                                            <p class="card-text my-1">Category : General  </p>
+                                            <p class="card-text my-1">Category : Dermatologist  </p>
                                             <p class="card-text my-1 mb-3">Public Rating : 4.4</p>
                                             <div class="d-flex justify-content-between align-items-center">
                                                 <button type="button"
@@ -150,7 +150,7 @@ function Book() {
 
                                         <div class="card-body">
                                             <p class="card-text my-1"><b>Mr. K Chatterjee</b></p>
-                                            <p class="card-text my-1">Category : General  </p>
+                                            <p class="card-text my-1">Category : Dermatologist  </p>
                                             <p class="card-text my-1 mb-3">Public Rating : 4.3</p>
                                             <div class="d-flex justify-content-between align-items-center">
                                                 <button type="button"
@@ -168,7 +168,7 @@ function Book() {
 
                                         <div class="card-body">
                                             <p class="card-text my-1"><b>Mr. A Dutta</b></p>
-                                            <p class="card-text my-1">Category : General  </p>
+                                            <p class="card-text my-1">Category : Dermatologist  </p>
                                             <p class="card-text my-1 mb-3">Public Rating : 4.3</p>
                                             <div class="d-flex justify-content-between align-items-center">
                                                 <button type="button"
@@ -185,7 +185,7 @@ function Book() {
 
                                         <div class="card-body">
                                             <p class="card-text my-1"><b>Ms. S Ghosal</b></p>
-                                            <p class="card-text my-1">Category : General  </p>
+                                            <p class="card-text my-1">Category : Dermatologist  </p>
                                             <p class="card-text my-1 mb-3">Public Rating : 4.2</p>
                                             <div class="d-flex justify-content-between align-items-center">
                                                 <button type="button"
@@ -202,7 +202,7 @@ function Book() {
 
                                         <div class="card-body">
                                             <p class="card-text my-1"><b>Mr. R Sarkar</b></p>
-                                            <p class="card-text my-1">Category : General  </p>
+                                            <p class="card-text my-1">Category : Dermatologist  </p>
                                             <p class="card-text my-1 mb-3">Public Rating : 4.0</p>
                                             <div class="d-flex justify-content-between align-items-center">
                                                 <button type="button"

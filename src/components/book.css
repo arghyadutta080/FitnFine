@@ -1,0 +1,40 @@
+*{
+    margin-left: 0;
+    margin-right: 0;
+}
+
+body{
+    background-color: rgb(219, 236, 232);
+}
+
+#col1{
+    margin-left: 0;
+    list-style: none;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: baseline;
+    border: 1px solid black;
+    background-color: rgb(137, 216, 243);
+}
+
+#col2{
+    background-color: rgb(206, 183, 214);
+}
+
+#booking{
+    /* margin-left: 0; */
+    /* margin-right: 5px; */
+    border: 1px solid black;
+}
+
+#col3{
+    margin-right: 0;
+    list-style: none;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: baseline;
+    border: 1px solid black;
+}
+

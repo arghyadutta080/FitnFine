@@ -2,39 +2,54 @@ import React from 'react'
 import m1 from './img/m1.jpeg'
 import m2 from './img/m2.jpeg'
 import m3 from './img/m3.jpg'
+import m4 from './img/m4.jpeg'
 // import './about.css'
 
 function About() {
     return (
         <div>
-            <div className="container" style={{ marginTop: "90px" }}>
-                <div className="container marketing mt-4">
+            <div className="container" style={{ marginTop: "80px" }}>
+                <div className="container marketing mt-2">
                     {/* <!-- Three columns of text below the carousel --> */}
-                    <h1 className="text-center my-4" style={{ color: "#7000ff" }}><b>FOUNDERS OF FITnFINE.COM</b></h1>
-                    <div className="row my-4">
-                        <div className="col-lg-4 mt-2">
-                            <img className="bd-placeholder-img rounded-circle" width="140" height="140" src={m1} alt="" />
+                    <h1 className="text-center" style={{ color: "#7000ff" }}><b>FOUNDERS OF FITnFINE.COM</b></h1>
+                    <div className="d-flex flex-column align-items-center row my-4">
+                        <div className="col-lg-4">
+                            <img className="bd-placeholder-img rounded-circle" width="136" height="136" src={m1} alt="" />
 
-                            <h2 className="fw-normal text-center"><b>MR. DEBOPOM BANERJEE</b></h2>
-                            <p className="text-center" style={{ color: "#005bff" }}><b>Student of RCC Institute of Information Technology</b></p>
+                            <h3 className="fw-normal text-center mt-2"><b>DEBOPOM BANERJEE</b></h3>
+                            <p className="text-center mb-0" style={{ color: "#005bff" }}><b>Student of RCC Institute of Information Technology</b></p>
+                            <p className="text-center mb-2" style={{ color: "#005bff" }}><b>Team Lead</b></p>
                             <p className="text-center"><a className="btn btn-primary"
                                 href="https://www.linkedin.com/in/debopom-banerjee-a35123215/">View profile</a></p>
                         </div>
-                        <div className="col-lg-4 mt-2">
-                            <img className="bd-placeholder-img rounded-circle" width="140" height="140" src={m2} alt="" />
+                        <div className='d-flex flex-row justify-content-center'>
+                            <div className="col-lg-4 mt-2">
+                                <img className="bd-placeholder-img rounded-circle" width="136" height="136" src={m2} alt="" />
 
-                            <h2 className="fw-normal text-center"><b>MISS. SANSRITA SAHA</b></h2>
-                            <p className="text-center" style={{ color: "#005bff" }}><b>Student of RCC Institute of Information Technology</b></p>
-                            <p className="text-center"><a className="btn btn-primary"
-                                href="https://www.linkedin.com/in/sansrita-saha-068246228/">View profile</a></p>
-                        </div>
-                        <div className="col-lg-4 mt-2">
-                            <img className="bd-placeholder-img rounded-circle" width="140" height="140" src={m3} alt="" />
+                                <h3 className="fw-normal text-center mt-2"><b>SANSRITA SAHA</b></h3>
+                                <p className="text-center mb-0" style={{ color: "#005bff" }}><b>Student of RCC Institute of Information Technology</b></p>
+                                <p className="text-center mb-2" style={{ color: "#005bff" }}><b>UI/UX Designer</b></p>
+                                <p className="text-center"><a className="btn btn-primary"
+                                    href="https://www.linkedin.com/in/sansrita-saha-068246228/">View profile</a></p>
+                            </div>
+                            <div className="col-lg-4 mt-2">
+                                <img className="bd-placeholder-img rounded-circle" width="136" height="136" src={m3} alt="" />
 
-                            <h2 className="fw-normal text-center"><b>MR. ARGHYA DUTTA</b></h2>
-                            <p className="text-center" style={{ color: "#005bff" }}><b>Student of RCC Institute of Information Technology</b></p>
-                            <p className="text-center"><a className="btn btn-primary"
-                                href="https://www.linkedin.com/in/arghya-dutta-623617229/">View profile</a></p>
+                                <h3 className="fw-normal text-center mt-2"><b>ARGHYA DUTTA</b></h3>
+                                <p className="text-center mb-0" style={{ color: "#005bff" }}><b>Student of RCC Institute of Information Technology</b></p>
+                                <p className="text-center mb-2" style={{ color: "#005bff" }}><b>Frontend Developer</b></p>
+                                <p className="text-center"><a className="btn btn-primary"
+                                    href="https://www.linkedin.com/in/arghya-dutta-623617229/">View profile</a></p>
+                            </div>
+                            <div className="col-lg-4 mt-2">
+                                <img className="bd-placeholder-img rounded-circle" width="136" height="136" src={m4} alt="" />
+
+                                <h3 className="fw-normal text-center mt-2"><b>SHUVANGI DE</b></h3>
+                                <p className="text-center mb-0" style={{ color: "#005bff" }}><b>Student of RCC Institute of Information Technology</b></p>
+                                <p className="text-center mb-2" style={{ color: "#005bff" }}><b>Frontend Developer</b></p>
+                                <p className="text-center"><a className="btn btn-primary"
+                                    href="https://www.linkedin.com/in/shuvangi-de-369071236/">View profile</a></p>
+                            </div>
                         </div>
                     </div>
                 </div>

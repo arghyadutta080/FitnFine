@@ -55,7 +55,7 @@ function Navbar() {
                             </div>
                             <div className="modal-body">
                                 <form className="text-center" id="signup">
-                                    <img className="mb-4" src={logo} alt="" width="72" height="57" />
+                                    <img className="mb-4" src={logo} alt="" width="72" height="72" />
                                     <h1 className="h3 mb-3 fw-normal"><b>Welcome to FITnFINE.COM</b></h1>
                                     <h4 className="h3 mb-3 fw-normal"><b>Please Sign Up</b></h4>
                                     <div id="choice">
@@ -79,7 +79,7 @@ function Navbar() {
                             </div>
                             <div className="modal-body">
                                 <form className="text-center">
-                                    <img className="mb-4" src={logo} alt="" width="72" height="57" />
+                                    <img className="mb-4" src={logo} alt="" width="72" height="72" />
                                     <h1 className="h3 mb-3 fw-normal">Log In to your account</h1>
 
 
