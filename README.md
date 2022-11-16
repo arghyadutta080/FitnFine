@@ -24,7 +24,7 @@ This website is a one-stop **freelancing website** for medical students, doctors
 
 ## Meet our Founders :
 
-1. **Arghya Dutta**<br>[![Linkedin: Arghya](https://img.shields.io/badge/-Arghya-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/ghazi-khan/)](https://www.linkedin.com/in/ghazi-khan/)
+1. **Arghya Dutta**<br>[![Linkedin: Arghya](https://img.shields.io/badge/-Arghya-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/arghya-dutta-623617229)](https://www.linkedin.com/in/arghya-dutta-623617229)
 
 2. **Sansrita Saha** <br>[![Linkedin: Sansrita](https://img.shields.io/badge/-Sansrita-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/sansrita-saha-068246228)](https://www.linkedin.com/in/sansrita-saha-068246228)
 
