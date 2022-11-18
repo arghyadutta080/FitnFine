@@ -3,7 +3,7 @@
 ![Banner image](https://user-images.githubusercontent.com/94488557/202274501-d33b11be-3944-46f3-9e8e-7664dc0744ba.png)
 
 **FitNFine** is a one-stop **freelancing website** for medical students, doctors and also a cheapest way for people to get a medical advice from an individual who is already working in that area. <br><br>
-[Video ▶](https://youtu.be/palSfD2pVCo)<br>
+[Video ▶](https://drive.google.com/file/d/1NRMoSDEH9FDmCSydjhFBfpdzzTrdf8Sv/view?usp=sharing)<br>
 [Website 🌐](https://fitnfinebyreact.netlify.app/)<br><br>
 
 > ### Still Wondering why to visit us 🤔⁉️
@@ -17,7 +17,7 @@
 > - No waiting in queue outside doctor's chamber.
 > - Valid medical prescriptions.
 >
-> For further information refer **[here📘](https://docs.google.com/presentation/d/1DxQfIa_e_osJbAHW3FyV9egH_KpFuAIr/edit?usp=sharing&ouid=113739507441587181944&rtpof=true&sd=true)** <br><br>
+> For further information refer **[here📘](https://1drv.ms/p/s!AjFq5jxJ2XJ0hW4oYP7pSQknGKYw?e=49BNn8)** <br><br>
 
 <br>
 
